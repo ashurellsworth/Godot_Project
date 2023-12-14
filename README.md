@@ -19,3 +19,6 @@ This project was developed using the Godot engine and its language, GDScript. As
 - Add Cow models and rig movements
 - Add additional envirnoment (Houses, animals, trees, etc.)
 - Create a basic gameplay loop
+- Add ability to save and load
+
+
